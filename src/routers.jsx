@@ -6,6 +6,10 @@ import Livea from "./pages/Livea";
 import Bryan from "./pages/Bryan";
 import Preto from "./pages/Preto";
 import Pimentel from "./pages/Pimentel";
+<<<<<<< HEAD
+=======
+import { Guilherme } from "./pages/Guilherme";
+>>>>>>> 60f759b (sixth commit)
 
 export default function Routers() {
   return (
@@ -18,6 +22,10 @@ export default function Routers() {
         <Route path="/bryan" Component={Bryan}/>
         <Route path="/gabriel" Component={Preto}/>
         <Route path="/pimentel" Component={Pimentel}/>
+<<<<<<< HEAD
+=======
+        <Route path="/guilherme" Component={Guilherme} />
+>>>>>>> 60f759b (sixth commit)
       </Routes>
     </BrowserRouter>
   );

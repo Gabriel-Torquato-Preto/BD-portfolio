@@ -5,6 +5,10 @@
   justify-content: center;
   align-items: center;
   object-fit: cover;
+<<<<<<< HEAD
+=======
+  animation: carregandonavbar 2s ;
+>>>>>>> 60f759b (sixth commit)
 }
 
 .line-bosch img {
@@ -66,3 +70,17 @@
   width: 20px;
   height: 20px;
 }
+<<<<<<< HEAD
+=======
+
+@keyframes carregandonavbar {
+  0%{
+    width: 0%;
+    transition: all 2s ease-in;
+  }
+  100%{
+    width: 100%;
+    transition: all 2s ease-in;
+  }
+}
+>>>>>>> 60f759b (sixth commit)

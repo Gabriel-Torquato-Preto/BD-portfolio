@@ -17,13 +17,24 @@
   /* background-color: darkorchid; */
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 60f759b (sixth commit)
 .avatar-description {
   width: 70%;
   height: 70%;
   /* background-color: lightcoral; */
 }
 
+<<<<<<< HEAD
+=======
+.avatar-content .img-avatar {
+  width: 500px;
+  object-fit: cover;
+}
+
+>>>>>>> 60f759b (sixth commit)
 .title {
   width: 100%;
 }
@@ -128,9 +139,41 @@
   justify-content: center;
   gap: 14px;
   margin-top: 15%;
+<<<<<<< HEAD
 }
 
 .icons img{
   width: 50px;
 }
 
+=======
+  -webkit-animation: scale-up-center 0.4s cubic-bezier(0.39, 0.575, 0.565, 1)
+    both;
+  animation: scale-up-center 0.4s cubic-bezier(0.39, 0.575, 0.565, 1) both;
+}
+
+.icons img {
+  width: 50px;
+}
+
+@-webkit-keyframes scale-up-center {
+  0% {
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+@keyframes scale-up-center {
+  0% {
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+>>>>>>> 60f759b (sixth commit)

@@ -17,6 +17,7 @@
   /* background-color: darkorchid; */
 }
 
+<<<<<<< HEAD
 .avatar-content img{
   width: 500px;
   height: 500px;
@@ -28,6 +29,21 @@
   /* background-color: lightcoral; */
 }
 
+=======
+.avatar-description {
+  width: 70%;
+  height: 70%;
+  border-radius: 50%;
+  /* background-color: lightcoral; */
+}
+
+.avatar-content .img-avatar {
+  width: 500px;
+
+  object-fit: cover;
+}
+
+>>>>>>> 60f759b (sixth commit)
 .title {
   width: 100%;
 }
@@ -116,11 +132,19 @@
   font-weight: 700;
 }
 
+<<<<<<< HEAD
 .infos{
   margin-top: 40px;
 }
 
 .infos ul li{
+=======
+.infos {
+  margin-top: 40px;
+}
+
+.infos ul li {
+>>>>>>> 60f759b (sixth commit)
   font-size: 20px;
   margin-top: 10px;
   font-weight: 200;
@@ -134,6 +158,10 @@
   margin-top: 15%;
 }
 
+<<<<<<< HEAD
 .icons img{
+=======
+.icons img {
+>>>>>>> 60f759b (sixth commit)
   width: 50px;
 }

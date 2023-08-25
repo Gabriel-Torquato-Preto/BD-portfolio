@@ -31,7 +31,14 @@ export default function ContainerAvatarLivea() {
     <>
       <section className="container-avatar-content">
         <aside className="avatar-content">
+<<<<<<< HEAD
           <img src="../../../public/fotos/livea.png" />
+=======
+          <img
+            className="img-avatar"
+            src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/integrantes%2FLivea.jpeg?alt=media&token=5234b03c-b61a-4b69-841a-bcd7d6c328d0"
+          />
+>>>>>>> 60f759b (sixth commit)
         </aside>
         <aside className="avatar-description">
           <div className="title">
@@ -50,6 +57,7 @@ export default function ContainerAvatarLivea() {
 
           <div className="icons">
             <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+<<<<<<< HEAD
               <img src="../../../public/images/html.svg"></img>
             </a>
             <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
@@ -75,6 +83,33 @@ export default function ContainerAvatarLivea() {
             </a>
             <a href="https://nextjs.org/">
               <img src="../../../public/images/n.svg"></img>
+=======
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/html.svg?alt=media&token=5881e319-6505-4765-bf05-823a03f7f806"></img>
+            </a>
+            <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/css.svg?alt=media&token=02ed2fde-5709-461f-8538-dcebdeaee86b"></img>
+            </a>
+            <a href="https://www.python.org/">
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/Python.svg?alt=media&token=bfc774b8-ed80-4246-827c-ef7f1c924bdd"></img>
+            </a>
+            <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/JavaScript.svg?alt=media&token=263fe8b1-b356-4f06-8ab2-cb3b831b39cb"></img>
+            </a>
+            <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16">
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/bd.svg?alt=media&token=12057dc8-e71a-4009-998e-33882a529bf0"></img>
+            </a>
+            <a href="https://react.dev/">
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/React-icon%201.svg?alt=media&token=66a4106f-582e-4467-a9c5-481383e05a4e"></img>
+            </a>
+            <a href="https://www.java.com/pt-BR/">
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/Java.svg?alt=media&token=723ee218-0c20-406c-a0ce-40c99f8c47f8"></img>
+            </a>
+            <a href="https://www.djangoproject.com/">
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/django.svg?alt=media&token=f78bbb7e-a262-43ce-b98b-b3cba4553219"></img>
+            </a>
+            <a href="https://nextjs.org/">
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/n.svg?alt=media&token=08aca29d-b70e-4bd6-ad32-b138189fa764"></img>
+>>>>>>> 60f759b (sixth commit)
             </a>
           </div>
           <Modal

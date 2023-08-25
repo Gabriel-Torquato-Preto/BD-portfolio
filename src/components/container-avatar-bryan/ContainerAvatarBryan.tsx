@@ -50,6 +50,7 @@ export default function ContainerAvatarBryan() {
 
           <div className="icons">
             <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+<<<<<<< HEAD
               <img src="../../../public/images/html.svg"></img>
             </a>
             <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
@@ -84,6 +85,45 @@ export default function ContainerAvatarBryan() {
             </a>
             <a href="https://styled-components.com/">
               <img src="../../../public/images/20658825.png"></img>
+=======
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/html.svg?alt=media&token=5881e319-6505-4765-bf05-823a03f7f806"></img>
+            </a>
+            <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/css.svg?alt=media&token=02ed2fde-5709-461f-8538-dcebdeaee86b"></img>
+            </a>
+            <a href="https://www.python.org/">
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/Python.svg?alt=media&token=bfc774b8-ed80-4246-827c-ef7f1c924bdd"></img>
+            </a>
+            <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/JavaScript.svg?alt=media&token=263fe8b1-b356-4f06-8ab2-cb3b831b39cb"></img>
+            </a>
+            <a href="https://vitejs.dev/">
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/vite.svg?alt=media&token=d76f414c-42ab-4eb5-ae32-a977aa8c8a2a"></img>
+            </a>
+            <a href="https://firebase.google.com/">
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/Firebase.svg?alt=media&token=1bd9ff3d-1a76-49f7-b09e-bf401452bc60"></img>
+            </a>
+            <a href="https://react.dev/">
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/React-icon%201.svg?alt=media&token=66a4106f-582e-4467-a9c5-481383e05a4e"></img>
+            </a>
+            <a href="https://www.djangoproject.com/">
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/django.svg?alt=media&token=f78bbb7e-a262-43ce-b98b-b3cba4553219"></img>
+            </a>
+            <a href="https://nextjs.org/">
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/n.svg?alt=media&token=08aca29d-b70e-4bd6-ad32-b138189fa764"></img>
+            </a>
+            <a href="https://nodejs.org/en">
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/node.svg?alt=media&token=22905541-559d-4f50-8400-f4e1645c6277"></img>
+            </a>
+            <a href="https://tailwindcss.com/">
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/tailwind.svg?alt=media&token=6cc489a4-cf44-486e-82f3-80b3dc482038"></img>
+            </a>
+            <a href="https://angular.io/" style={{ width: "35px" }}>
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/angular.svg?alt=media&token=dd089c23-ca3c-4197-b05d-94636ff046b7"></img>
+            </a>
+            <a href="https://styled-components.com/">
+              <img src="https://firebasestorage.googleapis.com/v0/b/portfoliobd-2000e.appspot.com/o/20658825.png?alt=media&token=0f3e42d2-3f86-455a-90ec-a5f2415640f3"></img>
+>>>>>>> 60f759b (sixth commit)
             </a>
           </div>
 
